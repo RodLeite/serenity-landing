@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "title": "Serenity — Centro de Estética e Odontológico",
+    "description": "Beleza e saúde com atendimento acolhedor e personalizado. Estética facial, corporal e odontologia em São Paulo.",
+    "whatsapp": "5511972804531",
+    "instagram": "serenityestetica.odonto",
+    "address": "R. Guaximbe, nº 32 - Parque Guarani, São Paulo - SP, 08235-710",
+    "hours": {
+      "weekdays": "Segunda a sexta: 9:00 – 20:00",
+      "saturday": "Sábado: 9:00 – 14:00",
+      "sunday": "Domingo: Fechado"
+    }
+  },
+
+  "header": {
+    "nav": [
+      { "label": "Sobre", "href": "#sobre" },
+      { "label": "Serviços", "href": "#servicos" },
+      { "label": "Depoimentos", "href": "#depoimentos" },
+      { "label": "Contato", "href": "#contato" }
+    ],
+    "cta": { "label": "Agendar pelo WhatsApp", "message": "Olá! Vim pelo site e gostaria de agendar uma avaliação." }
+  },
+
+  "hero": {
+    "badge": "Estética & Odontologia",
+    "title": "Beleza e saúde com o cuidado que você merece",
+    "subtitle": "Centro de estética e odontologia com atendimento personalizado e acolhedor no coração do Parque Guarani.",
+    "primaryCta": {
+      "label": "Agendar Avaliação",
+      "message": "Olá! Vim pelo site e gostaria de agendar uma avaliação."
+    },
+    "secondaryCta": {
+      "label": "Conhecer Serviços",
+      "href": "#servicos"
+    },
+    "heroImage": "/images/hero/hero-main.jpg"
+  },
+
+  "trustBar": {
+    "items": [
+      {
+        "icon": "Heart",
+        "title": "Atendimento personalizado",
+        "text": "Cada protocolo é pensado para as suas necessidades e objetivos."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Ambiente acolhedor",
+        "text": "Espaço preparado para você se sentir confortável e segura."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Procedimentos selecionados",
+        "text": "Técnicas e produtos escolhidos com critério e responsabilidade."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Fácil acesso",
+        "text": "Localização prática no Parque Guarani, São Paulo."
+      }
+    ]
+  },
+
+  "about": {
+    "eyebrow": "Sobre nós",
+    "title": "Conheça a Serenity",
+    "text": "A Serenity nasceu da vontade de oferecer um espaço onde beleza e saúde caminham juntas. Reunimos estética facial, corporal e odontologia em um ambiente pensado para acolher você com atenção, cuidado e profissionalismo. Aqui, cada atendimento é único — porque você também é.",
+    "image": "/images/gallery/space-01.jpg",
+    "cta": { "label": "Conhecer Serviços", "href": "#servicos" }
+  },
+
+  "services": {
+    "eyebrow": "Nossos serviços",
+    "title": "Cuidado completo para você",
+    "cards": [
+      {
+        "title": "Estética Facial",
+        "description": "Protocolos personalizados para realçar a beleza natural do seu rosto.",
+        "bullets": [
+          "Limpeza de pele",
+          "Peeling",
+          "Botox",
+          "Preenchimento labial",
+          "Microagulhamento"
+        ],
+        "image": "/images/services/facial.jpg",
+        "cta": {
+          "label": "Saber Mais",
+          "message": "Olá! Tenho interesse em Estética Facial. Poderia me dar mais informações?"
+        }
+      },
+      {
+        "title": "Estética Corporal",
+        "description": "Tratamentos para contorno, firmeza e bem-estar do corpo inteiro.",
+        "bullets": [
+          "Drenagem linfática",
+          "Modeladores corporais",
+          "Protocolos redutores",
+          "Massagem relaxante"
+        ],
+        "image": "/images/services/corporal.jpg",
+        "cta": {
+          "label": "Saber Mais",
+          "message": "Olá! Tenho interesse em Estética Corporal. Poderia me dar mais informações?"
+        }
+      },
+      {
+        "title": "Odontologia",
+        "description": "Saúde bucal com tecnologia e um toque de cuidado estético.",
+        "bullets": [
+          "Clareamento dental",
+          "Lentes de contato dental",
+          "Harmonização orofacial",
+          "Profilaxia e prevenção"
+        ],
+        "image": "/images/services/odonto.jpg",
+        "cta": {
+          "label": "Saber Mais",
+          "message": "Olá! Tenho interesse em Odontologia. Poderia me dar mais informações?"
+        }
+      }
+    ]
+  },
+
+  "method": {
+    "eyebrow": "Nossa experiência",
+    "title": "Como funciona o atendimento",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Escuta e avaliação",
+        "text": "Entendemos suas necessidades, expectativas e histórico para montar o melhor caminho."
+      },
+      {
+        "number": "02",
+        "title": "Protocolo personalizado",
+        "text": "Indicamos o tratamento ideal, explicando cada etapa com transparência."
+      },
+      {
+        "number": "03",
+        "title": "Execução com acompanhamento",
+        "text": "Realizamos o procedimento com cuidado, segurança e atenção a cada detalhe."
+      },
+      {
+        "number": "04",
+        "title": "Manutenção e retorno",
+        "text": "Acompanhamos seus resultados e orientamos os próximos passos para resultados duradouros."
+      }
+    ],
+    "cta": {
+      "label": "Agendar Avaliação",
+      "message": "Olá! Gostaria de agendar uma avaliação na Serenity."
+    }
+  },
+
+  "testimonials": {
+    "eyebrow": "Depoimentos",
+    "title": "O que dizem sobre nós",
+    "items": [
+      {
+        "quote": "Me senti acolhida desde o primeiro momento. O resultado da limpeza de pele superou todas as minhas expectativas!",
+        "name": "Camila R.",
+        "role": "Estética Facial",
+        "image": "/images/testimonials/person-01.jpg"
+      },
+      {
+        "quote": "Ambiente lindo, equipe atenciosa e meu clareamento ficou perfeito. Recomendo de olhos fechados.",
+        "name": "Fernanda S.",
+        "role": "Odontologia",
+        "image": "/images/testimonials/person-02.jpg"
+      },
+      {
+        "quote": "A drenagem linfática mudou minha rotina. Saio de lá renovada toda semana.",
+        "name": "Juliana M.",
+        "role": "Estética Corporal",
+        "image": "/images/testimonials/person-03.jpg"
+      },
+      {
+        "quote": "Profissionais incríveis e um cuidado que a gente sente que é de verdade. Virei cliente fiel.",
+        "name": "Patrícia L.",
+        "role": "Estética Facial",
+        "image": "/images/testimonials/person-04.jpg"
+      }
+    ]
+  },
+
+  "gallery": {
+    "eyebrow": "Nosso espaço",
+    "title": "Conheça a clínica",
+    "images": [
+      { "src": "/images/gallery/gallery-01.jpg", "alt": "Recepção da clínica Serenity" },
+      { "src": "/images/gallery/gallery-02.jpg", "alt": "Sala de atendimento estético" },
+      { "src": "/images/gallery/gallery-03.jpg", "alt": "Equipamentos modernos" },
+      { "src": "/images/gallery/gallery-04.jpg", "alt": "Detalhe do ambiente acolhedor" },
+      { "src": "/images/gallery/gallery-05.jpg", "alt": "Consultório odontológico" },
+      { "src": "/images/gallery/gallery-06.jpg", "alt": "Área de relaxamento" }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Dúvidas frequentes",
+    "title": "Perguntas e respostas",
+    "items": [
+      {
+        "question": "Como faço para agendar?",
+        "answer": "Você pode agendar diretamente pelo nosso WhatsApp. Basta clicar em qualquer botão de agendamento na página ou nos enviar uma mensagem."
+      },
+      {
+        "question": "Como funciona a avaliação?",
+        "answer": "Na avaliação, conversamos sobre seus objetivos e analisamos o que pode ser feito. A partir disso, montamos um protocolo personalizado para você."
+      },
+      {
+        "question": "Quais são os horários de atendimento?",
+        "answer": "Atendemos de segunda a sexta das 9:00 às 20:00 e aos sábados das 9:00 às 14:00."
+      },
+      {
+        "question": "Preciso de indicação médica para procedimentos estéticos?",
+        "answer": "Para a maioria dos procedimentos estéticos, não é necessário. Na avaliação, orientamos se algum encaminhamento é recomendado."
+      },
+      {
+        "question": "Qual o valor dos procedimentos?",
+        "answer": "Os valores variam conforme o tipo de tratamento e protocolo indicado. Entre em contato pelo WhatsApp para receber um orçamento personalizado."
+      },
+      {
+        "question": "A clínica atende convênio odontológico?",
+        "answer": "Atualmente trabalhamos com atendimento particular. Entre em contato para saber mais sobre condições de pagamento."
+      },
+      {
+        "question": "É minha primeira vez, como me preparar?",
+        "answer": "Venha com a pele limpa, sem maquiagem (para procedimentos faciais), e com roupas confortáveis. O mais importante é chegar tranquila — cuidamos do resto."
+      }
+    ]
+  },
+
+  "finalCta": {
+    "title": "Pronta para começar?",
+    "text": "Agende sua avaliação e descubra o melhor protocolo para você. Estamos esperando você na Serenity.",
+    "cta": {
+      "label": "Agendar agora pelo WhatsApp",
+      "message": "Olá! Gostaria de agendar uma avaliação na Serenity."
+    }
+  },
+
+  "footer": {
+    "copyright": "© 2026 Serenity — Centro de Estética e Odontológico. Todos os direitos reservados."
+  }
+}
